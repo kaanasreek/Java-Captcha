@@ -1,2 +1,18 @@
-# Java-Captcha
-A simple Java Swing-based CAPTCHA Generator that creates random CAPTCHA images with noise and provides refresh and verification functionality, allowing users to securely validate their input through a user-friendly GUI.
+# Java CAPTCHA Generator
+
+This project is a simple CAPTCHA generator built using Java Swing.
+
+## Features
+
+- Random CAPTCHA generation
+- Refresh button
+- Verification check
+- GUI using JFrame
+
+## How to Run
+
+1. Compile:
+   javac captchaGUI.java
+
+2. Run:
+   java captchaGUI
